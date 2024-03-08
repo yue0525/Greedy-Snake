@@ -1,0 +1,12 @@
+To,         Location
+clk,        PIN_G21
+reset,      PIN_J6
+left,       PIN_H5
+right,      PIN_H6
+up,         PIN_G4
+down,       PIN_G5
+h_sync,     PIN_L21
+v_sync,     PIN_L22
+RGB[2],     PIN_H21
+RGB[1],     PIN_J21
+RGB[0],     PIN_K18
